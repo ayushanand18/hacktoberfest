@@ -1,3 +1,8 @@
+#### Name: [Ayush Anand](https://github.com/ayushanand18)
+- Place: New Delhi, India
+- Bio: GSoC 2022 with IOOS, AI and Web developer
+- GtiHub: [ayushanand18](https://github.com/ayushanand18)
+
 #### Name: [Anmol Agarwal](https://github.com/fineanmol)
 
 - Place: Old Street, UK,
